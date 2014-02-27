@@ -24,6 +24,7 @@
         // Update the view.
         [self configureView];
         self.view.backgroundColor = [[UIColor magentaColor] colorWithAlphaComponent:.3f];
+        NSLog(@"hello");
     }
 }
 

@@ -23,6 +23,7 @@
         
         // Update the view.
         [self configureView];
+        NSLog(@"hello");
     }
 }
 

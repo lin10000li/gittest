@@ -89,6 +89,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3EA3803A18BF1048000B408F /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3EC594E418BEEC3C00C0239E /* MasterViewController.h */,
+				3EC594E518BEEC3C00C0239E /* MasterViewController.m */,
+				3EC594E718BEEC3C00C0239E /* DetailViewController.h */,
+				3EC594E818BEEC3C00C0239E /* DetailViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		3EA3803B18BF10AC000B408F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3EC594EA18BEEC3C00C0239E /* Images.xcassets */,
+				3EC594E118BEEC3C00C0239E /* ControllingSource.xcdatamodeld */,
+				3EC594DE18BEEC3C00C0239E /* Main.storyboard */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		3EC594BE18BEEC3C00C0239E = {
 			isa = PBXGroup;
 			children = (
@@ -125,13 +146,8 @@
 			children = (
 				3EC594DB18BEEC3C00C0239E /* AppDelegate.h */,
 				3EC594DC18BEEC3C00C0239E /* AppDelegate.m */,
-				3EC594DE18BEEC3C00C0239E /* Main.storyboard */,
-				3EC594E418BEEC3C00C0239E /* MasterViewController.h */,
-				3EC594E518BEEC3C00C0239E /* MasterViewController.m */,
-				3EC594E718BEEC3C00C0239E /* DetailViewController.h */,
-				3EC594E818BEEC3C00C0239E /* DetailViewController.m */,
-				3EC594EA18BEEC3C00C0239E /* Images.xcassets */,
-				3EC594E118BEEC3C00C0239E /* ControllingSource.xcdatamodeld */,
+				3EA3803A18BF1048000B408F /* View Controllers */,
+				3EA3803B18BF10AC000B408F /* Resources */,
 				3EC594D318BEEC3C00C0239E /* Supporting Files */,
 			);
 			path = ControllingSource;
@@ -476,6 +492,7 @@
 				3EC5950418BEEC3C00C0239E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3EC5950518BEEC3C00C0239E /* Build configuration list for PBXNativeTarget "ControllingSourceTests" */ = {
 			isa = XCConfigurationList;
@@ -484,6 +501,7 @@
 				3EC5950718BEEC3C00C0239E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

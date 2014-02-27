@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4ECA087B-7AAD-4902-83E7-721AE66CCADB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ControllingSource</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1186C661-9377-40B4-A4B5-0582CFE60165</key>
+		<string>https://github.com/qqlin3/gittest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ControllingSource.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1186C661-9377-40B4-A4B5-0582CFE60165</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qqlin3/gittest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1186C661-9377-40B4-A4B5-0582CFE60165</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1186C661-9377-40B4-A4B5-0582CFE60165</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gittest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

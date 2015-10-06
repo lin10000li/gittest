@@ -10,29 +10,29 @@
 	<string>ControllingSource</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>1186C661-9377-40B4-A4B5-0582CFE60165</key>
-		<string>https://github.com/qqlin3/gittest.git</string>
+		<key>92EFDA8FCFF8D635EA0583E95FC95EE0F4283E81</key>
+		<string>github.com:lin10000li/gittest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ControllingSource.xcodeproj/project.xcworkspace</string>
+	<string>ControllingSource.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>1186C661-9377-40B4-A4B5-0582CFE60165</key>
+		<key>92EFDA8FCFF8D635EA0583E95FC95EE0F4283E81</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/qqlin3/gittest.git</string>
+	<string>github.com:lin10000li/gittest.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1186C661-9377-40B4-A4B5-0582CFE60165</string>
+	<string>92EFDA8FCFF8D635EA0583E95FC95EE0F4283E81</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>1186C661-9377-40B4-A4B5-0582CFE60165</string>
+			<string>92EFDA8FCFF8D635EA0583E95FC95EE0F4283E81</string>
 			<key>IDESourceControlWCCName</key>
 			<string>gittest</string>
 		</dict>

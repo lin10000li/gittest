@@ -29,6 +29,7 @@
 
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject:)];
     self.navigationItem.rightBarButtonItem = addButton;
+    //我加了一条注释，在2015年10月6日21:21
 }
 
 - (void)didReceiveMemoryWarning

@@ -25,6 +25,7 @@
 		3EC594F518BEEC3C00C0239E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EC594D018BEEC3C00C0239E /* CoreData.framework */; };
 		3EC594FD18BEEC3C00C0239E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3EC594FB18BEEC3C00C0239E /* InfoPlist.strings */; };
 		3EC594FF18BEEC3C00C0239E /* ControllingSourceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EC594FE18BEEC3C00C0239E /* ControllingSourceTests.m */; };
+		41F2A3271BC4046600A5FE1B /* weizhang_main_header@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41F2A3261BC4046600A5FE1B /* weizhang_main_header@2x.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		3EC594FA18BEEC3C00C0239E /* ControllingSourceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ControllingSourceTests-Info.plist"; sourceTree = "<group>"; };
 		3EC594FC18BEEC3C00C0239E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3EC594FE18BEEC3C00C0239E /* ControllingSourceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ControllingSourceTests.m; sourceTree = "<group>"; };
+		41F2A3261BC4046600A5FE1B /* weizhang_main_header@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "weizhang_main_header@2x.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		3EA3803B18BF10AC000B408F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				41F2A3261BC4046600A5FE1B /* weizhang_main_header@2x.jpg */,
 				3EC594EA18BEEC3C00C0239E /* Images.xcassets */,
 				3EC594E118BEEC3C00C0239E /* ControllingSource.xcdatamodeld */,
 				3EC594DE18BEEC3C00C0239E /* Main.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EC594EB18BEEC3C00C0239E /* Images.xcassets in Resources */,
+				41F2A3271BC4046600A5FE1B /* weizhang_main_header@2x.jpg in Resources */,
 				3EC594D718BEEC3C00C0239E /* InfoPlist.strings in Resources */,
 				3EC594E018BEEC3C00C0239E /* Main.storyboard in Resources */,
 			);
